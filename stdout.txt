@@ -1,0 +1,8 @@
+Reading config file D:\Downloads\Jogos\SNES/snes9x.conf.
+Saving	config file	D:\Downloads\Jogos\SNES/snes9x.conf
+Sound buffer size: 8192 (2048 samples)
+Found ROM file header (and ignored it).
+Map_LoROMMap
+"demon's crest" [checksum ok] LoROM, 16Mbits, ROM, PAL, SRAM:0Kbits, ID:3Z  , CRC32:C8386172
+Sound buffer size: 8192 (2048 samples)
+Saving	config file	D:\Downloads\Jogos\SNES/snes9x.conf
